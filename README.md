@@ -10,7 +10,7 @@ Author: Kannan Gnanasigamani
 
 APIs:
 
-1) API to get all the availabe PhoneNumbers - GET request
+1) API to get all availabe PhoneNumbers - GET request
 ---------------------------------------------------------
 http://localhost:8085/phoneDirectory/api/availablePhoneNumbers
 
